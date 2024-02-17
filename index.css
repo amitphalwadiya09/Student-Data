@@ -1,0 +1,15 @@
+.btn{
+    background-color: rgb(70,238,70);
+    margin: 20px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.button-contanir{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+.btn:hover{
+    background-color: turquoise;
+    transform: scale(1.1);
+}
